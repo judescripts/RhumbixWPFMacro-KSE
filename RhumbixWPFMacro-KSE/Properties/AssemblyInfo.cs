@@ -10,9 +10,9 @@ using System.Windows;
 [assembly: AssemblyTitle("RhumbixWPFMacro-KSE")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("judescripts@gmail.com")]
 [assembly: AssemblyProduct("RhumbixWPFMacro-KSE")]
-[assembly: AssemblyCopyright("Copyright ©  2019")]
+[assembly: AssemblyCopyright("Copyright © Jude C. Lee 2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

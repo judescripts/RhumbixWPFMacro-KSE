@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using RhumbixWPFMacro_KSE.ExcelData;
 
 namespace RhumbixWPFMacro_KSE
 {
@@ -23,6 +24,12 @@ namespace RhumbixWPFMacro_KSE
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void RunMacro_onClick(object sender, RoutedEventArgs e)
+        {
+            var start = new MainMacros();
+            start.RunMacros();
         }
     }
 }
